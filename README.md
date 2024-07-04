@@ -1,2 +1,2 @@
 # webAuthn
-WebAuthn 스펙 데모
+> https://webauthn.io/
